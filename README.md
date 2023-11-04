@@ -69,7 +69,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="">
   <img height="180em" src=""/>
   <img height="180em" src=""/>
 </a>
