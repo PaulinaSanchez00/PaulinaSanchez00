@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
-- ⭐ Estudiante de Ingenieria de Software ⭐ 
+- ⭐ Ingenieria de Software ⭐ 
 - 📲 Mobile developer jr
 - 😃 Soy una persona perseverante y entusiasta
 - ✏️ Me gusta aprender cosas nuevas
